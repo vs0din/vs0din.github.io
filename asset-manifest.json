@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.72605e86.chunk.css",
-    "main.js": "/static/js/main.01e12996.chunk.js",
-    "main.js.map": "/static/js/main.01e12996.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.73a86ccc.chunk.js": "/static/js/2.73a86ccc.chunk.js",
-    "static/js/2.73a86ccc.chunk.js.map": "/static/js/2.73a86ccc.chunk.js.map",
+    "main.css": "/static/css/main.04aeef8f.css",
+    "main.js": "/static/js/main.93a14bdf.js",
+    "main.css.map": "/static/css/main.04aeef8f.css.map",
+    "main.js.map": "/static/js/main.93a14bdf.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9593555cf6a657d94164deac43ed23ae.js": "/precache-manifest.9593555cf6a657d94164deac43ed23ae.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.72605e86.chunk.css.map": "/static/css/main.72605e86.chunk.css.map"
+    "static/media/styles.scss": "/static/media/dropdown-arrow.19e93245.svg",
+    "static/media/call_c_logo.svg": "/static/media/call_c_logo.8c7cfc55.svg",
+    "static/media/call_center_logo.svg": "/static/media/call_center_logo.46bb729e.svg",
+    "static/media/contact_c_logo.svg": "/static/media/contact_c_logo.fb6cdf1f.svg",
+    "static/media/icon-close.svg": "/static/media/icon-close.8afebd7d.svg",
+    "static/media/local_global_logo.svg": "/static/media/local_global_logo.e27f78ac.svg",
+    "static/media/lock-icon.svg": "/static/media/lock-icon.34465bd7.svg",
+    "static/media/mail-icon.svg": "/static/media/mail-icon.357a96af.svg",
+    "static/media/menu_icon.svg": "/static/media/menu_icon.aea2cf37.svg",
+    "static/media/notification.svg": "/static/media/notification.f9ae1b46.svg",
+    "static/media/pbx_logo.svg": "/static/media/pbx_logo.98d82362.svg",
+    "static/media/phone_systems_logo.svg": "/static/media/phone_systems_logo.cfb1fb97.svg",
+    "static/media/telecom_center.svg": "/static/media/telecom_center.dc8ae3db.svg",
+    "static/media/styles.module.scss": "/static/media/weave.6e55ea76.png"
   }
 }
