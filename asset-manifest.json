@@ -1,23 +1,13 @@
 {
-  "files": {
-    "main.css": "/static/css/main.04aeef8f.css",
-    "main.js": "/static/js/main.93a14bdf.js",
-    "main.css.map": "/static/css/main.04aeef8f.css.map",
-    "main.js.map": "/static/js/main.93a14bdf.js.map",
-    "index.html": "/index.html",
-    "static/media/styles.scss": "/static/media/dropdown-arrow.19e93245.svg",
-    "static/media/call_c_logo.svg": "/static/media/call_c_logo.8c7cfc55.svg",
-    "static/media/call_center_logo.svg": "/static/media/call_center_logo.46bb729e.svg",
-    "static/media/contact_c_logo.svg": "/static/media/contact_c_logo.fb6cdf1f.svg",
-    "static/media/icon-close.svg": "/static/media/icon-close.8afebd7d.svg",
-    "static/media/local_global_logo.svg": "/static/media/local_global_logo.e27f78ac.svg",
-    "static/media/lock-icon.svg": "/static/media/lock-icon.34465bd7.svg",
-    "static/media/mail-icon.svg": "/static/media/mail-icon.357a96af.svg",
-    "static/media/menu_icon.svg": "/static/media/menu_icon.aea2cf37.svg",
-    "static/media/notification.svg": "/static/media/notification.f9ae1b46.svg",
-    "static/media/pbx_logo.svg": "/static/media/pbx_logo.98d82362.svg",
-    "static/media/phone_systems_logo.svg": "/static/media/phone_systems_logo.cfb1fb97.svg",
-    "static/media/telecom_center.svg": "/static/media/telecom_center.dc8ae3db.svg",
-    "static/media/styles.module.scss": "/static/media/weave.6e55ea76.png"
-  }
+  "main.css": "/static/css/main.d11e8769.chunk.css",
+  "main.js": "/static/js/main.06737351.chunk.js",
+  "main.js.map": "/static/js/main.06737351.chunk.js.map",
+  "static/js/1.9575714a.chunk.js": "/static/js/1.9575714a.chunk.js",
+  "static/js/1.9575714a.chunk.js.map": "/static/js/1.9575714a.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.d11e8769.chunk.css.map": "/static/css/main.d11e8769.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.d9211b24c556ef22f6bd1f2ecc329027.js": "/precache-manifest.d9211b24c556ef22f6bd1f2ecc329027.js",
+  "service-worker.js": "/service-worker.js"
 }
